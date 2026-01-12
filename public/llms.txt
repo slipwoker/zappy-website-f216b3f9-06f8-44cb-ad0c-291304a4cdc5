@@ -1,0 +1,57 @@
+# עדי שני — Generative Engine Optimization Map
+
+> A General business.
+
+---
+
+## Pages
+
+### דף הבית
+https://-f216b3f9.zappy5.app
+עדי שני - מאמן קריירה מומלץ בישראל המספק ייעוץ קריירה אישי ומקצועי. גלה איך לשנות את הקריירה שלך היום!
+
+### שירותים
+https://-f216b3f9.zappy5.app/services
+שירותי עדי שני מאמן קריירה: ייעוץ קריירה אישי, אסטרטגיה דיגיטלית, סדנאות וליווי מקצועי למאמני קריירה. גלה את השירותים המלאים!
+
+### אודות
+https://-f216b3f9.zappy5.app/about
+הכירו את עדי שני - מאמן קריירה מומלץ בישראל עם ניסיון עשיר בליווי מאמנים להצלחה דיגיטלית. למדו על הגישה והערכים שלנו.
+
+### צור קשר
+https://-f216b3f9.zappy5.app/contact
+צור קשר עם עדי שני מאמן קריירה מומלץ בישראל. קבע פגישת ייעוץ קריירה אישי ותתחיל את המסע להצלחה דיגיטלית היום!
+
+## Legal & Policy
+
+### Privacy Policy
+https://-f216b3f9.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-f216b3f9.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-f216b3f9.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About עדי שני
+עדי שני is a business in the General industry.
+
+## Target Audience
+- מאמני קריירה
+
+## Industry
+General
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-f216b3f9.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-f216b3f9.zappy5.app/robots.txt
